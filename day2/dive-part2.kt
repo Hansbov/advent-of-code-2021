@@ -2,6 +2,8 @@ package day2
 
 import java.io.File
 
+
+// this is a comment
 fun main() {
     var horizontal: Int = 0
     var depth: Int = 0
